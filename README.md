@@ -13,4 +13,4 @@
 
 | 名称 | 插件版本 | MCDR版本 | 功能 |
 | - | - | - | - |
-| [Notice](https://github.com/LiamSho/MCDReforgedPlugins/tree/master/Notice) | v1.0.0 | v1.x.x | 简单易用的公告插件，可以创建多条公告，设置玩家加入时发送，手动全服广播等 |
+| [Notice](https://github.com/LiamSho/MCDReforgedPlugins/tree/main/Notice) | v1.0.0 | v1.x.x | 简单易用的公告插件，可以创建多条公告，设置玩家加入时发送，手动全服广播等 |
