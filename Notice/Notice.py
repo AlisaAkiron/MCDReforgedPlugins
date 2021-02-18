@@ -130,7 +130,7 @@ def command_run(message, text, command):
     
 def print_unknown_argument_message(source: CommandSource, error: UnknownArgument):
     print_message(source, command_run(
-        '[NOTICE] 参数错误！请输入§7{}§r以获取插件信息'.format(PREFIX + ' help'),
+        '参数错误！请输入§7{}§r以获取插件信息'.format(PREFIX + ' help'),
         '点击查看帮助',
         PREFIX + ' help'
     ))
